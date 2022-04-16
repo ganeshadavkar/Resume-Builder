@@ -1,0 +1,15 @@
+
+
+.myimg{
+    border-radius:50px ;
+    width: 200px;
+}
+
+.background{
+    background-color: aqua;
+}
+
+/*hiding cv template*/
+#cv-template{
+    display: none;
+}
